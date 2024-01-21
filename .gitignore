@@ -1,0 +1,9 @@
+# dummy files
+*~
+.#*
+*#
+.built
+
+# binaries
+test/helloworld
+a.out
